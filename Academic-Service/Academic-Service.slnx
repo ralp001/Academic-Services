@@ -1,0 +1,9 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="../src/Academic.API/Academic.API.csproj" />
+    <Project Path="../src/Academic.Application/Academic.Application.csproj" />
+    <Project Path="../src/Academic.Domain/Academic.Domain.csproj" />
+    <Project Path="../src/Academic.Infrastructure/Academic.Infrastructure.csproj" />
+  </Folder>
+  <Folder Name="/tests/" />
+</Solution>
